@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Sajal Tripathi
 
 🚀 A Passionate Java Backend Developer & Web Enthusiast  
-🌱 Currently learning **Spring Boot + React.js Full Stack Development**  
-🔭 Building personal projects in **Java, Spring Boot, MySQL, React, and REST APIs**  
+🌱 Currently learning **Spring Boot + React.js + Python Full Stack Development**  
+🔭 Building personal projects in **Python, Java, Spring Boot, MySQL, React, and REST APIs**  
 📫 Reach me at: **sajaltripathi0705@gmail.com**  
 
 ---
@@ -18,6 +18,8 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
